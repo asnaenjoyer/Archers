@@ -1,1 +1,1 @@
-<a>AN-241 KOLESNIK OLEKSANDR PROJECT</a>
+<a>Лабораторна робота №6</a>
